@@ -13,7 +13,7 @@ Input your userdata for example first- and lastname into the variables
 Please make sure to update the Email provider, since fyii.de is getting banned from using Facebook-Accounts
 
 ## Contributing
-Code-changes are welcome, if you have anymore suggestions please send me a Discord-DM (mroverload#8544)
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
 [Mit] (https://choosealicense.com/licenses/mit)
