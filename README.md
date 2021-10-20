@@ -1,5 +1,5 @@
 # FacebookAccountGenerator
-FAB is a Facebook-Account generating script
+FAB is a Facebook-Account generating script, written in python
 
 ## Installation
 Use the package manager [pip](https://pip.pypa.io/en/stable) to install selenium
