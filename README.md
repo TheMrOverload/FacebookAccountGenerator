@@ -5,7 +5,7 @@ FAB is a Facebook-Account generating script
 Use the package manager [pip](https://pip.pypa.io/en/stable) to install selenium
 
 ```bash
-pip install -U selenium
+pip install selenium
 ```
 
 ## Usage
